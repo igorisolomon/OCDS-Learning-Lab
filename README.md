@@ -17,7 +17,7 @@ This lab is a tutorial on how to flatten hierachical/json open contracting data 
 
 
 ## How to contribute
-Yes, you can contribute to the tutorial and make it better. Your help is very welcome. Review the tutorial and send in a pull request with your contributions. Here is [how to send in a pull reguest](https://help.github.com/en/articles/creating-a-pull-request).
+Yes, you can contribute to the tutorial and make it better. Your help is very welcome. Review the tutorial and send in a pull request with your contributions. Here is [how to send in a pull request](https://help.github.com/en/articles/creating-a-pull-request).
 
 If sending pull requests are not your thing, you can send me a tweet @jamilafarouk_j or email at j.jamilafarouk@gmail.com
 
